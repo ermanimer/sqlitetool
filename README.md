@@ -1,7 +1,5 @@
 # sqlitetool
 
-**WIP**
-
 [![Build](https://github.com/ermanimer/sqlitetool/actions/workflows/build.yml/badge.svg)](https://github.com/ermanimer/sqlitetool/actions/workflows/build.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ermanimer/sqlitetool)](https://goreportcard.com/report/github.com/ermanimer/sqlitetool)
 
